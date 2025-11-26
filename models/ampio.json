@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "Alexa",
-  "author": "Kevin Ahrendt",
-  "website": "https://www.kevinahrendt.com/",
-  "model": "./alexa.tflite",
+  "wake_word": "Ampio",
+  "author": "Ampio",
+  "website": "https://www.ampio.com/",
+  "model": "./ampio.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.66,
