@@ -3,7 +3,10 @@
   "wake_word": "Ampio",
   "author": "Ampio",
   "website": "https://www.ampio.com/",
-  "model": "./ampio.tflite",
+  "model": "ampio.tflite",
+  "trained_languages": [
+    "en"
+  ],
   "version": 1,
   "micro": {
     "probability_cutoff": 0.97,
